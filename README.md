@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/20588623/221689723-fc2a674e-a064-4c1d-b82a-f6b2f892e725.mp4
+
 ## ABOUT ##
 This project was completed for EE5271 (Robot Vision) at the University of Minnesota-Twin Cities for Fall 2021.
 Contributors: Bharath Sivaram, Isaac Kasahara, & Chase Anderson 
